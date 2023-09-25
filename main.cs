@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using System.Linq;
 
-class Program {
-  public static void Main (string[] args)
+internal class Program
+{
+  public static void Main(string[] args)
   {
-
     Console.Write("Wordle");
 
     var rand = new Random();
@@ -20,7 +20,7 @@ class Program {
       
       string input = Console.ReadLine();
 
-      if (input.Length != 5)
+      if (input == null || input.Length != 5)
       {
         i--;
         Console.Write("Try Again");
@@ -55,6 +55,5 @@ class Program {
       }
     }
     Console.WriteLine("\nYou Lost\nthe Word was " + answerWord);
-
   }
 }
