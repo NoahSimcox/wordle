@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4orra2BnLaORRPk44AjgmP9rxvLfkbUeMge9mNqSHJauINOUQqPFr8Tw0rgGWcQYgXESz5evHPzAdFFsxAb+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noah Simcox\\RiderProjects\\wordle\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah Simcox\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Noah Simcox\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Noah Simcox\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Noah Simcox\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
