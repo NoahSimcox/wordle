@@ -6,7 +6,7 @@ internal class Program
 {
   public static void Main(string[] args)
   {
-    Console.Write("Wordles");
+    Console.Write("Wordle");
 
     var rand = new Random();
     int randInt = rand.Next(0, 3103);
